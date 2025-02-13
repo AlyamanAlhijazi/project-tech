@@ -1,0 +1,22 @@
+{
+  "name": "project-tech",
+  "version": "1.0.0",
+  "description": "Oefeningen voor project tech",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlyamanAlhijazi/project-tech.git"
+  },
+  "author": "Alyaman Alhijazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlyamanAlhijazi/project-tech/issues"
+  },
+  "homepage": "https://github.com/AlyamanAlhijazi/project-tech#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
